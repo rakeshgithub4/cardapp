@@ -1,0 +1,234 @@
+#img1 {
+    height:200px;
+    position:absolute;
+    top:15%;
+    left:10%;
+}
+#img2 {
+    height:200px;
+    position:absolute;
+    top:15%;
+    left:40%;
+}
+#img3 {
+    height:200px;
+    position:absolute;
+    top:15%;
+    left:70%;
+}
+#img4 {
+    height:200px;
+    position:absolute;
+    top:60%;
+    left:10%;
+}
+#btn1 {
+    position:absolute;
+    top:50%;
+    left:12%;
+    width:250px;
+    height:40px;
+    background-color: white;
+    color:#008CBA;
+    font-size: 20px;
+    border:2px solid #008CBA;
+}
+#btn2 {
+    position:absolute;
+    top:50%;
+    left:12%;
+}
+#bt1 {
+    width:40px;
+    height:40px;
+    background-color:#008CBA;
+    color:white;
+    font-size: 20px;
+    border:2px solid #008CBA;
+
+}
+#bt2 {
+    width:180px;
+    height:40px;
+    background-color: white;
+    color:#008CBA;
+    font-size: 20px;
+    border:2px solid #008CBA;   
+}
+#bt3 {
+    width:40px;
+    height:40px;
+    background-color: #008CBA;
+    color:white;
+    font-size: 20px;
+    border:2px solid #008CBA;
+}
+#btn3 {
+    position:absolute;
+    top:50%;
+    left:42%;
+    width:250px;
+    height:40px;
+    background-color: white;
+    color:#008CBA;
+    font-size: 20px;
+    border:2px solid #008CBA;
+}
+#btn4 {
+    position:absolute;
+    top:50%;
+    left:42%;
+}
+#bt4 {
+    width:40px;
+    height:40px;
+    background-color:#008CBA;
+    color:white;
+    font-size: 20px;
+    border:2px solid #008CBA;
+
+}
+#bt5 {
+    width:180px;
+    height:40px;
+    background-color: white;
+    color:#008CBA;
+    font-size: 20px;
+    border:2px solid #008CBA;   
+}
+#bt6 {
+    width:40px;
+    height:40px;
+    background-color: #008CBA;
+    color:white;
+    font-size: 20px;
+    border:2px solid #008CBA;
+}
+
+#btn5 {
+    position:absolute;
+    top:50%;
+    left:72%;
+    width:250px;
+    height:40px;
+    background-color: white;
+    color:#008CBA;
+    font-size: 20px;
+    border:2px solid #008CBA;
+}
+#btn6 {
+    position:absolute;
+    top:50%;
+    left:72%;
+}
+#bt7 {
+    width:40px;
+    height:40px;
+    background-color:#008CBA;
+    color:white;
+    font-size: 20px;
+    border:2px solid #008CBA;
+
+}
+#bt8 {
+    width:180px;
+    height:40px;
+    background-color: white;
+    color:#008CBA;
+    font-size: 20px;
+    border:2px solid #008CBA;   
+}
+#bt9 {
+    width:40px;
+    height:40px;
+    background-color: #008CBA;
+    color:white;
+    font-size: 20px;
+    border:2px solid #008CBA;
+}
+
+#btn7 {
+    position:absolute;
+    top:94.5%;
+    left:12%;
+    width:250px;
+    height:40px;
+    background-color: white;
+    color:#008CBA;
+    font-size: 20px;
+    border:2px solid #008CBA;
+}
+#btn8 {
+    position:absolute;
+    top:94.5%;
+    left:12%;
+}
+#bt10 {
+    width:40px;
+    height:40px;
+    background-color:#008CBA;
+    color:white;
+    font-size: 20px;
+    border:2px solid #008CBA;
+
+}
+#bt11 {
+    width:180px;
+    height:40px;
+    background-color: white;
+    color:#008CBA;
+    font-size: 20px;
+    border:2px solid #008CBA;   
+}
+#bt12 {
+    width:40px;
+    height:40px;
+    background-color: #008CBA;
+    color:white;
+    font-size: 20px;
+    border:2px solid #008CBA;
+}
+#h1 {
+    position:absolute;
+    top:42%;
+    left:11%;
+}
+#h2 {
+    position:absolute;
+    top:42%;
+    left:41%;
+}
+#h3 {
+    position:absolute;
+    top:42%;
+    left:71%;
+}
+#h4 {
+    position:absolute;
+    top:86.5%;
+    left:11%;
+}
+#b1 {
+    position:absolute;
+    top:42%;
+    left:25%;
+    
+}
+#b2 {
+    position:absolute;
+    top:42%;
+    left:55%;
+    
+}
+#b3 {
+    position:absolute;
+    top:42%;
+    left:85%;
+    
+}
+#b4 {
+    position:absolute;
+    top:86%;
+    left:25%;
+    
+}
